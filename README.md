@@ -3,9 +3,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://img.magnific.com/free-vector/cute-astronaut-fishing-cute-star-moon-cartoon-vector-icon-illustration-science-technology-flat_138676-10457.jpg" width="250">
-</p><h1 align="center">Laavanyaa Subhasri</h1><p align="center">
 Student | Programmer | Technology Enthusiast
 </p>---
 
