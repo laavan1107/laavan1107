@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="astronaut.avif" width="250">
+</p>
+
+
 # Hi 👋, I'm Laavanyaa Subhasri
 
 ### Student | Programmer | Technology Enthusiast
