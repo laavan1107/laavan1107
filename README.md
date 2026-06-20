@@ -3,46 +3,54 @@
 </p>
 
 
-# Hi 👋, I'm Laavanyaa Subhasri
+<p align="center">
+  <img src="https://img.magnific.com/free-vector/cute-astronaut-fishing-cute-star-moon-cartoon-vector-icon-illustration-science-technology-flat_138676-10457.jpg" width="250">
+</p><h1 align="center">Laavanyaa Subhasri</h1><p align="center">
+Student | Programmer | Technology Enthusiast
+</p>---
 
-### Student | Programmer | Technology Enthusiast
+About Me
 
 I am passionate about technology and continuous learning. I enjoy exploring different areas of computer science, building projects, and improving my problem-solving skills through programming.
 
-## 🚀 Interests
+Interests
 
-* Programming
-* Data Science
-* Artificial Intelligence
-* Machine Learning
-* Web Development
+- Programming
+- Data Science
+- Artificial Intelligence
+- Machine Learning
+- Web Development
 
-## 📚 Currently Learning
+Currently Learning
 
-* Python
-* Java
-* SQL
-* Git & GitHub
-* Data Science
-* Machine Learning
+- Python
+- Java
+- SQL
+- Git & GitHub
+- Data Science
+- Machine Learning
 
-## 📂 Projects
+Projects
 
-* Snake Game using Python and Pygame
-* Personal Portfolio Website
-* Statistics and Data Analysis Projects
+- Snake Game using Python and Pygame
+- Personal Portfolio Website
+- Statistics and Data Analysis Projects
 
-## 📫 Connect With Me
+Contact
 
-**Email:**
-[laavanyaasubhasribv@gmail.com](mailto:laavanyaasubhasribv@gmail.com)
+Email
+laavanyaasubhasribv@gmail.com
 
-**LinkedIn:**
-linkedin.com/in/laavanyaa-subhasri-b-v-410b28403
+LinkedIn
+https://linkedin.com/in/laavanyaa-subhasri-b-v-410b28403
 
-**Portfolio:**
-laavanyaa-subhasri.netlify.app
+Portfolio
+https://laavanyaa-subhasri.netlify.app/
 
-## 💡 Quote
+Quote
 
-> When you feel like quitting, think about why you started.
+«When you feel like quitting, think about why you started.»
+
+---
+
+Thank you for visiting my profile.
