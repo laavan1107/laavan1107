@@ -44,9 +44,9 @@ https://linkedin.com/in/laavanyaa-subhasri-b-v-410b28403
 Portfolio
 https://laavanyaa-subhasri.netlify.app/
 
-Quote
-
-«When you feel like quitting, think about why you started.»
+<hr><h2 align="center">
+"When you feel like quitting, think about why you started."
+</h2><hr>
 
 ---
 
