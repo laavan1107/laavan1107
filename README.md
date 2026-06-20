@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋, I'm Laavanyaa Subhasri
 
-<!--
-**laavan1107/laavan1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Student | Programmer | Technology Enthusiast
 
-Here are some ideas to get you started:
+I am passionate about technology and continuous learning. I enjoy exploring different areas of computer science, building projects, and improving my problem-solving skills through programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Interests
+
+* Programming
+* Data Science
+* Artificial Intelligence
+* Machine Learning
+* Web Development
+
+## 📚 Currently Learning
+
+* Python
+* Java
+* SQL
+* Git & GitHub
+* Data Science
+* Machine Learning
+
+## 📂 Projects
+
+* Snake Game using Python and Pygame
+* Personal Portfolio Website
+* Statistics and Data Analysis Projects
+
+## 📫 Connect With Me
+
+**Email:**
+[laavanyaasubhasribv@gmail.com](mailto:laavanyaasubhasribv@gmail.com)
+
+**LinkedIn:**
+linkedin.com/in/laavanyaa-subhasri-b-v-410b28403
+
+**Portfolio:**
+laavanyaa-subhasri.netlify.app
+
+## 💡 Quote
+
+> When you feel like quitting, think about why you started.
